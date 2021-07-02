@@ -92,7 +92,7 @@ function LandingPage() {
         usage='Give the code scipetts and get the output below.'/>
         <Card title='Vedio Call'
         description='In Progress' 
-        usage='In progress'/>
+        usage='It is a vedio calling features which uses peer to peer connection using webrtc api'/>
       </div>
         
       
